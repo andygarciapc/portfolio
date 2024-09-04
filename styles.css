@@ -148,6 +148,26 @@ header p {
     gap: 20px;
 }
 
+.project-grid a {
+    display: block;
+    text-decoration: none;
+    color: inherit; /* Maintain original text color */
+    background-color: #444;
+    padding: 20px;
+    border-radius: 10px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    overflow: hidden;
+}
+
+.project-grid a:hover {
+    transform: translateY(-10px);
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+.project-grid a h3, .project-grid a p {
+    margin: 0;
+}
+
 .experience-grid{
     display: flex;
     flex-direction: column;
@@ -306,4 +326,20 @@ html {
     .social-links {
         flex-direction: column;
     }
+}
+
+#gpt-rpg .container {
+    margin: 0 auto; /* Centers the container horizontally */
+    max-width: 80%;  /* Adjust as needed */
+    padding: 20px;   /* Optional padding */
+    text-align: center; /* Optional: Center the text inside the container */
+}
+
+iframe {
+    width: 80%;               /* Set width to a percentage to ensure it's not too wide */
+    height: 800px;
+    border: none;
+    margin: 0;
+    padding-left: 200px;
+    padding-right: 100px;
 }
