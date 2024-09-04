@@ -106,6 +106,7 @@ header p {
     margin-bottom: 30px;
     border-radius: 15px;
     position: relative;
+    scroll-margin-top: 140px;
 }
 
 .section:nth-of-type(even) {
@@ -185,6 +186,10 @@ footer {
 #backToTop.show {
     opacity: 1;
     visibility: visible;
+}
+
+#contact .container {
+    text-align: center;
 }
 
 /* Animations */
