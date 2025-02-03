@@ -28,3 +28,14 @@ Here are some of the projects showcased in my portfolio:
 ├── index.html           # Main HTML file for the portfolio
 ├── README.md            # This file
 └── scripts.js           # JavaScript file for interactive elements
+
+## 📬 Contact Me
+If you’d like to reach out, please fill out the contact form on my portfolio or connect with me via:
+
+- **[LinkedIn](https://www.linkedin.com/in/andygarciapc/)**
+- **[GitHub](https://github.com/andygarciapc)**
+- **[Twitter](https://twitter.com/andygarciapc)**
+
+---
+
+### 🔥 Made with passion by **Andy Garcia**
