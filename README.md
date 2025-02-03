@@ -23,12 +23,11 @@ Here are some of the projects showcased in my portfolio:
 
 ## 📂 Repository Structure
 ```plaintext
-/
 ├── assets/              # Contains styles, images, and scripts
 ├── index.html           # Main HTML file for the portfolio
 ├── README.md            # This file
 └── scripts.js           # JavaScript file for interactive elements
-
+```
 ## 📬 Contact Me
 If you’d like to reach out, please fill out the contact form on my portfolio or connect with me via:
 
